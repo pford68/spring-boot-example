@@ -1,4 +1,4 @@
-package hello;
+package com.macedon.examples.hello;
 
 import static org.hamcrest.Matchers.equalTo;
 import static org.junit.Assert.assertThat;

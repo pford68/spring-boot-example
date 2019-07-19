@@ -1,4 +1,4 @@
-package hello;
+package com.macedon.examples.hello;
 
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RequestMapping;
